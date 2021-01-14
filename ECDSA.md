@@ -48,3 +48,11 @@ https://github.com/binance-chain/tss-lib (Go), https://github.com/ing-bank/thres
 * https://eprint.iacr.org/2017/552.pdf
 * implementations: https://github.com/ZenGo-X/multi-party-ecdsa (Rust),
 https://github.com/cfromknecht/tpec (Go)
+
+
+#### Misc:
+###### A Survey of ECDSA Threshold Signing
+* https://eprint.iacr.org/2020/1390.pdf
+
+###### Securing DNSSEC Keys via Threshold ECDSA From Generic MPC
+* https://eprint.iacr.org/2019/889.pdf
