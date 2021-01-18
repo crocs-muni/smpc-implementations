@@ -1,5 +1,9 @@
 # Threshold ECDSA
 
+###### Canetti, Gennaro, Goldfeder, Makriyannis, Peled 2021 - k-of-n ECDSA
+* https://eprint.iacr.org/2021/060.pdf
+
+
 ###### Gennaro, Goldfeder 2020 - k-of-n ECDSA
 * https://eprint.iacr.org/2020/540.pdf
 * implementation: https://github.com/ZenGo-X/multi-party-ecdsa (Rust)
@@ -56,3 +60,6 @@ https://github.com/cfromknecht/tpec (Go)
 
 ###### Securing DNSSEC Keys via Threshold ECDSA From Generic MPC
 * https://eprint.iacr.org/2019/889.pdf
+
+###### Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security
+* https://eprint.iacr.org/2016/013.pdf
