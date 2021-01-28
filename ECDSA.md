@@ -51,7 +51,7 @@ https://github.com/binance-chain/tss-lib (Go), https://github.com/ing-bank/thres
 ###### Lindell 2017 - 2p ECDSA
 * https://eprint.iacr.org/2017/552.pdf
 * implementations: https://github.com/ZenGo-X/multi-party-ecdsa (Rust),
-https://github.com/cfromknecht/tpec (Go)
+https://github.com/cfromknecht/tpec (Go), https://github.com/unbound-tech/blockchain-crypto-mpc (c++)
 
 
 #### Misc:
@@ -63,3 +63,6 @@ https://github.com/cfromknecht/tpec (Go)
 
 ###### Threshold-optimal DSA/ECDSA signatures and an application to Bitcoin wallet security
 * https://eprint.iacr.org/2016/013.pdf
+
+###### Refresh When You Wake Up:Proactive Threshold Wallets with Offline Devices
+* https://eprint.iacr.org/2019/1328.pdf
