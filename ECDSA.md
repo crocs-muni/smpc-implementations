@@ -6,7 +6,7 @@
 
 ###### Gennaro, Goldfeder 2020 - k-of-n ECDSA
 * https://eprint.iacr.org/2020/540.pdf
-* implementation: https://github.com/ZenGo-X/multi-party-ecdsa (Rust)
+* implementations: https://github.com/ZenGo-X/multi-party-ecdsa (Rust), https://github.com/axelarnetwork/tofn (Rust)
 
 
 ###### Damgard et. al. 2020 - k-of-n ECDSA
@@ -66,3 +66,9 @@ https://github.com/cfromknecht/tpec (Go), https://github.com/unbound-tech/blockc
 
 ###### Refresh When You Wake Up:Proactive Threshold Wallets with Offline Devices
 * https://eprint.iacr.org/2019/1328.pdf
+
+###### Improving security for users of decentralized exchanges through multiparty computation
+* https://arxiv.org/pdf/2106.10972.pdf
+
+###### Dynamic threshold ECDSA signature and application to asset custody in blockchain
+* https://www.sciencedirect.com/science/article/pii/S2214212621000466
